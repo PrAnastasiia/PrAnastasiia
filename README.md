@@ -25,7 +25,8 @@
 
 ---
 <div align="center">
-<h2>:hammer_and_wrench: My stack and tools:</h2>
+<h3>:hammer_and_wrench: My stack and tools:</h3>
+<p></p>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
