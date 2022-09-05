@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
 
   <div id="badges" >
-    <a href="https://www.instagram.com/pr_nastyy/?hl=ru" target="_blank"> <img src="https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=white&style=for-the-badge">
+    <a target="_blank" href="https://www.instagram.com/pr_nastyy/?hl=ru"> <img src="https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=white&style=for-the-badge">
     </a>
     <a href="https://www.facebook.com/profile.php?id=100060261486295" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white&style=for-the-badge"></a>
   </div>
