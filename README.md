@@ -17,7 +17,7 @@
 
    <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a student of Full Stack Developer  from Ukraine :blue_heart::yellow_heart:
-<br>:muscle: You can watch my progress in my GitHub repositories:
+<br>:muscle: You can watch my progress in GitHub repositories:
 <p></p>
 <div><a href="https://github.com/PrAnastasiia?tab=repositories"><img src="https://c.tenor.com/A15H8E1VUh8AAAAS/github-cat.gif" width="50" ></a></div>
 </div>
